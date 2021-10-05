@@ -1,7 +1,7 @@
 # Hello world! I'm Ausias Bertran
 A fullstack developer 
 
-* 📍 I'm living in Barcelona, Spain
+* 📍 I'm living in Barcelona
 * 🔭 I'm currently working on research web-comics
 * 🌱 I'm currently improving ReactJs and SASS and learning JQUERY
 * 👩‍💻 All my projects are available at https://github.com/ulldecorb
