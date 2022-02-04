@@ -6,7 +6,7 @@
 * 🌱 I'm currently improving ReactJs and SASS and learning JQUERY
 * 👩‍💻 All my projects are available at https://github.com/ulldecorb
 * 💬 Ask me about React, Redux, Node, Mongo and comics!
-* ⚡ Also experencied has illustrator and art designer
+* ⚡ I am also experienced in illustration and art design
 
 ## Connect with me:
 [![my linkedin](./assets/linkedin-icon.svg "my linkedin")](https://www.linkedin.com/in/ausi%C3%A0s-bertran-23137320b/) 
