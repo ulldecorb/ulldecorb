@@ -5,7 +5,7 @@
 * 🔭 I'm currently working on research web-comics
 * 🌱 I'm currently improving ReactJs and SASS and learning JQUERY
 * 👩‍💻 All my projects are available at https://github.com/ulldecorb
-* [💬](https://github.com/ulldecorb/react-shopping-app) Ask me about React, Redux, Node, Mongo and comics!
+* [💬](https://github.com/ulldecorb/speed-run-cheatsheet) Ask me about React, Redux, Node, Mongo and comics!
 * ⚡ I am also experienced in illustration and art design
 
 ## Connect with me:
