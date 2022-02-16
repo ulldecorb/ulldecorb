@@ -9,7 +9,7 @@
 * ⚡ I am also experienced in illustration and art design
 
 ## Connect with me:
-[![my linkedin](./assets/linkedin-icon.svg "my linkedin")](https://www.linkedin.com/in/ausi%C3%A0s-bertran-23137320b/) 
+[![my linkedin](./assets/linkedin-icon.svg "my linkedin")](https://www.linkedin.com/in/ausias-bertran-23137320b/) 
 [![ausias.bertran@gmail.com](./assets/gmail-icon.svg "my e-mail")](mailto:ausias.bertran@gmail.com)  ausias.bertran@gmail.com
 
 ## Languages and Tools:
