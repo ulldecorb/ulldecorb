@@ -12,7 +12,7 @@
 [![my linkedin](./assets/linkedin-icon.svg "my linkedin")](https://www.linkedin.com/in/ausi%C3%A0s-bertran-23137320b/) 
 [![ausias.bertran@gmail.com](./assets/gmail-icon.svg "my e-mail")](mailto:ausias.bertran@gmail.com)  ausias.bertran@gmail.com
 
-## Languajes and Tools:
+## Languages and Tools:
 ### Frontend:
 [![html](./assets/html-1.svg "html")](https://developer.mozilla.org/es/docs/Web/HTML)
 [![css](./assets/css-3.svg "css")](https://developer.mozilla.org/es/docs/Web/CSS)
