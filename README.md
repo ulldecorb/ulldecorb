@@ -5,7 +5,7 @@
 * 🔭 I'm currently working on research web-comics
 * 🌱 I'm currently improving ReactJs and SASS and learning JQUERY
 * 👩‍💻 All my projects are available at https://github.com/ulldecorb
-* [💬](https://github.com/ulldecorb/speed-run-cheatsheet) Ask me about React, Redux, Node, Mongo and comics!
+* [💬](https://github.com/ulldecorb/speed-run-cheatsheet) Ask me about React, Redux, Node, Moongo and comics!
 * ⚡ I am also experienced in illustration and art design
 
 ## Connect with me:
@@ -25,7 +25,7 @@
 [![typescript](./assets/typescript.svg "typescript")](https://www.typescriptlang.org/)
 ### Backend:
 [![nodejs](./assets/nodejs-1.svg "Node.js")](https://nodejs.org/)
-[![mongoDB](./assets/mongodb-icon-1.svg "mongoDB")](https://www.mongodb.com/)
+[![mongoDB](./assets/mongodb-icon-1.svg "moongoDB")](https://www.mongodb.com/)
 [![auth0](./assets/auth0.svg "auth0")](https://auth0.com/)
 [![firebase](./assets/firebase-1.svg "firebase")](https://firebase.google.com/)
 [![postman](./assets/postman.svg "postman")](https://www.postman.com/)
