@@ -2,10 +2,10 @@
 ## A fullstack developer:
 
 * 📍 I'm living in Barcelona
-* 🔭 I'm currently working on research web-comics
-* 🌱 I'm currently improving ReactJs and SASS and learning JQUERY
-* 👩‍💻 All my projects are available at https://github.com/ulldecorb
-* [💬](https://github.com/ulldecorb/speed-run-cheatsheet) Ask me about React, Redux, Node, Moongo and comics!
+* 🔭 I'm currently work as Web and App frontend developer
+* 🌱 I'm currently improving React Native, 3D Three.js and AI development.
+* 👩‍💻 Own aside projects available [here](https://github.com/ulldecorb)
+* [💬](https://github.com/ulldecorb/speed-run-cheatsheet) Ask me about React, CSS, UI/UX, DIY workshop and comics!
 * ⚡ I am also experienced in illustration and art design
 
 ## Connect with me:
