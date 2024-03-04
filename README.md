@@ -5,7 +5,7 @@
 * 🔭 I'm currently work as Web and App frontend developer
 * 🌱 I'm currently improving React Native, 3D Three.js
 * 👩‍💻 Own aside projects available [here](https://github.com/ulldecorb)
-* [💬]([https://github.com/ulldecorb/ever-junior-cheat-sheet](https://github.com/ulldecorb/ever-junior-cheat-sheet?tab=readme-ov-file#ever-junior-cheat-sheet)) Ask me about React, CSS, UI/UX, DIY workshop and comics!
+* [💬](https://github.com/ulldecorb/ever-junior-cheat-sheet?tab=readme-ov-file#ever-junior-cheat-sheet) Ask me about React, CSS, UI/UX, DIY workshop and comics!
 * ⚡ I am also experienced in illustration and art design
 
 ## Connect with me:
